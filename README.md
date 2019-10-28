@@ -52,3 +52,4 @@ This demo is based off the opensource project truffle hog and has been adapted f
 ## References
 - https://githooks.com/
 - https://stackoverflow.com/questions/40245767/delete-commit-on-gitlab
+
